@@ -168,6 +168,13 @@ Python 3.5
    - 学习算法：监督学习与Baum-Welch算法(EM算法)；
    - 实验：<a href="Chapter11-SourceCode.zip">Download Source Code</a>
 
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter-KalmanFiltering.html">Chapter 卡尔曼滤波基础</a>, <a href="Chapter-KalmanFiltering.pdf">(Download PDF, 22 Pages)</a>
+   - 卡尔曼滤波的算法推导；
+   - 滤波算法的通用形式；
+      - 标量情形；
+      - 向量情形；
+   - 实验：<a href="PositonVelocityKalmanFiltering.zip">Download Source Code</a>
+
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter12-CN.html">Chapter 线性链条件随机场</a>, <a href="Chapter12-CN.pdf">(Download PDF, 67 Pages)</a>
    - 概率图模型：有向图与无向图模型；
    - 线性链条件随机场：基本形式、简化形式与矩阵形式；
