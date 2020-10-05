@@ -11,6 +11,19 @@ Python 3.5
    - 性质；
    - 应用；
 
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter-Gaussian.html">Chapter 高斯分布</a>, <a href="Chapter-Gaussian.pdf">(Download PDF, 17 Pages)</a>
+   - 一元高斯分布；
+   - 多元高斯分布；
+      - 多元独立标准高斯分布；
+      - 一般多元高斯分布；
+      - 几何解释；
+   - 高斯分布的矩；
+      - 一元高斯分布情形；
+      - 多元高斯分布情形；
+   - 高斯分布的KL散度；
+      - 一元高斯分布情形；
+      - 多元高斯分布情形；
+
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter1-CN.html">Chapter 基础知识</a>, <a href="Chapter1-CN.pdf">(Download PDF, 79 Pages)</a>
    - 模型、策略和算法；
    - 实例：多项式曲线拟合；
