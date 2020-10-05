@@ -4,6 +4,13 @@ Python 3.5
 
 ### 主要内容
 
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter-CrossProduct.html">Chapter 叉积</a>, <a href="Chapter-CrossProduct.pdf">(Download PDF, 9 Pages)</a>
+   - 定义；
+   - 方向；
+   - 模；
+   - 性质；
+   - 应用；
+
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter1-CN.html">Chapter 基础知识</a>, <a href="Chapter1-CN.pdf">(Download PDF, 79 Pages)</a>
    - 模型、策略和算法；
    - 实例：多项式曲线拟合；
