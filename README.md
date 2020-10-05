@@ -4,7 +4,7 @@ Python 3.5
 
 ### 主要内容
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter1-CN.html">Chapter1 基础知识</a>, <a href="Chapter1-CN.pdf">(Download PDF, 79 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter1-CN.html">Chapter 基础知识</a>, <a href="Chapter1-CN.pdf">(Download PDF, 79 Pages)</a>
    - 模型、策略和算法；
    - 实例：多项式曲线拟合；
       - 正则项的意义；
@@ -27,7 +27,7 @@ Python 3.5
       - 拉格朗日乘数法；
    - 实验：最小二乘法之直线拟合与多项式拟合，<a href="Chapter1-SourceCode.zip">Download Source Code</a>；
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter2-CN.html">Chapter2 判别函数的线性分类基础</a>, <a href="Chapter2-CN.pdf">(Download PDF, 47 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter2-CN.html">Chapter 判别函数的线性分类基础</a>, <a href="Chapter2-CN.pdf">(Download PDF, 47 Pages)</a>
    - 二分类与多分类基础；
    - 基本判别函数；
       - 最小平方分类方法；
@@ -39,7 +39,7 @@ Python 3.5
       - 标量函数对矩阵的求导；
    - 实验：感知机，<a href="Perceptron.ipynb">Download Source Code</a>，<a href="Fitting-Perceptron.mp4">Result(Video)</a>；
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter3-CN.html">Chapter3 K近邻</a>, <a href="Chapter3-CN.pdf">(Download PDF, 20 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter3-CN.html">Chapter K近邻</a>, <a href="Chapter3-CN.pdf">(Download PDF, 20 Pages)</a>
    - kNN模型；
       - 距离度量；
       - k值；
@@ -49,7 +49,7 @@ Python 3.5
       - kd树的搜索；
    - 实验：<a href="Chapter3-SourceCode.zip">Download Source Code</a>；
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter4-CN.html">Chapter4 决策树</a>, <a href="Chapter4-CN.pdf">(Download PDF, 47 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter4-CN.html">Chapter 决策树</a>, <a href="Chapter4-CN.pdf">(Download PDF, 47 Pages)</a>
    - 分类决策树；
       - 信息论基础：自信息、信息熵、条件熵、联合熵、互信息、相对熵、交叉熵；
       - 特征选择；
@@ -61,14 +61,14 @@ Python 3.5
       - 剪枝算法；
    - 实验：<a href="Chapter4-SourceCode.zip">Download Source Code</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter5-CN.html">Chapter5 朴素贝叶斯</a>, <a href="Chapter5-CN.pdf">(Download PDF, 17 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter5-CN.html">Chapter 朴素贝叶斯</a>, <a href="Chapter5-CN.pdf">(Download PDF, 17 Pages)</a>
    - 分类模型；
    - 类别推理的依据——期望风险最小化；
    - 参数估计；
    - 学习算法；
    - 实验：<a href="Chapter5-SourceCode.zip">Download Source Code</a>；
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter6-CN.html">Chapter6 逻辑回归</a>, <a href="Chapter6-CN.pdf">(Download PDF, 36 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter6-CN.html">Chapter 逻辑回归</a>, <a href="Chapter6-CN.pdf">(Download PDF, 36 Pages)</a>
    - 从线性回归到二分类逻辑回归：Sigmoid函数；
    - 二分类模型的似然函数与损失函数；
    - 二分类模型中梯度的计算；
@@ -84,7 +84,7 @@ Python 3.5
    - 逻辑回归与高斯朴素贝叶斯；
    - 实验：<a href="Chapter6-SourceCode.zip">Download Source Code</a>，<a href="Fitting-LR.mp4">Result(Video)</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter7-CN.html">Chapter7 最大熵模型</a>, <a href="Chapter7.pdf">(Download PDF, 29 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter7-CN.html">Chapter 最大熵模型</a>, <a href="Chapter7.pdf">(Download PDF, 29 Pages)</a>
    - 最大熵原理；
    - 最大熵模型；
       - 条件熵；
@@ -95,7 +95,7 @@ Python 3.5
    - 最大熵模型与逻辑回归；
    - 实验：<a href="ME.ipynb">Download Source Code</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter8-CN.html">Chapter8 支持向量机</a>, <a href="Chapter8-CN.pdf">(Download PDF, 61 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter8-CN.html">Chapter 支持向量机</a>, <a href="Chapter8-CN.pdf">(Download PDF, 61 Pages)</a>
    - 线性可分支持向量机；
       - 几何间隔与函数间隔；
       - 学习策略：硬间隔最大化；
@@ -114,7 +114,7 @@ Python 3.5
       - E与b值的更新；
    - 实验：<a href="Chapter8-SourceCode.zip">Download Source Code</a>，<a href="Fitting-SVM.mp4">Result(Video)</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter9-CN.html">Chapter9 提升方法</a>, <a href="Chapter9-CN.pdf">(Download PDF, 32 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter9-CN.html">Chapter 提升方法</a>, <a href="Chapter9-CN.pdf">(Download PDF, 32 Pages)</a>
    - AdaBoost模型；
       - 加法模型与前向分步算法；
       - AdaBoost模型的推导；
@@ -127,7 +127,7 @@ Python 3.5
    - 梯度提升树
    - 实验：<a href="Chapter9-SourceCode.zip">Download Source Code</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter10-CN.html">Chapter10 EM算法</a>, <a href="Chapter10-CN.pdf">(Download PDF, 32 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter10-CN.html">Chapter EM算法</a>, <a href="Chapter10-CN.pdf">(Download PDF, 32 Pages)</a>
    - EM算法的引入；
    - 通用EM算法；
    - EM算法的收敛性；
@@ -136,13 +136,13 @@ Python 3.5
    - EM算法与F函数；
    - 实验：<a href="Chapter10-SourceCode.zip">Download Source Code</a>，<a href="Fitting-EM.mp4">Result(Video)</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter11-CN.html">Chapter11 HMM模型</a>, <a href="Chapter11-CN.pdf">(Download PDF, 28 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter11-CN.html">Chapter HMM模型</a>, <a href="Chapter11-CN.pdf">(Download PDF, 28 Pages)</a>
    - 概率计算：前向算法、后向算法及其它概率的计算；
    - 预测算法：贪心算法、Viterbi算法；
    - 学习算法：监督学习与Baum-Welch算法(EM算法)；
    - 实验：<a href="Chapter11-SourceCode.zip">Download Source Code</a>
 
-- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter12-CN.html">Chapter12 线性链条件随机场</a>, <a href="Chapter12-CN.pdf">(Download PDF, 67 Pages)</a>
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter12-CN.html">Chapter 线性链条件随机场</a>, <a href="Chapter12-CN.pdf">(Download PDF, 67 Pages)</a>
    - 概率图模型：有向图与无向图模型；
    - 线性链条件随机场：基本形式、简化形式与矩阵形式；
    - 概率计算：前向-后向算法、常见概率的计算、特征函数期望值的计算；
