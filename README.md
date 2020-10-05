@@ -23,6 +23,12 @@ Python 3.5
    - 高斯分布的KL散度；
       - 一元高斯分布情形；
       - 多元高斯分布情形；
+      
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter-Jacobian.html">Chapter 雅可比矩阵</a>, <a href="Chapter-Jacobian.pdf">(Download PDF, 9 Pages)</a>
+   - 定积分的换元法；
+   - 极坐标换元法；
+   - 雅可比矩阵；
+   - 雅可比行列式与通用换元法；
 
 - <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter1-CN.html">Chapter 基础知识</a>, <a href="Chapter1-CN.pdf">(Download PDF, 79 Pages)</a>
    - 模型、策略和算法；
