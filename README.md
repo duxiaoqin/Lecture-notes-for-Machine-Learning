@@ -196,4 +196,5 @@ Python 3.5
       - 簇之间的相似度；
    - k均值算法的推导；
    - 与高斯混合模型EM算法的关系；
+   - 附录：Mahalanobis距离变换的演示；
    - 实验：<a href="KMeans.ipynb">Download Source Code</a>
