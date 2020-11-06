@@ -184,3 +184,16 @@ Python 3.5
       - 改进的迭代尺度法(IIS)；
       - 拟牛顿法；
    - 实验：<a href="Chapter12-SourceCode.zip">Download Source Code</a>
+
+- <a href="https://duxiaoqin.github.io/Lecture-notes-for-Machine-Learning/Chapter-KMeans.html">Chapter k均值聚类</a>, <a href="Chapter-KMeans.pdf">(Download PDF, 39 Pages)</a>
+   - 无监督学习；
+   - 相似度准则；
+      - 数据点之间的相似度；
+         - Minkowski距离；
+         - Mahalanobis距离；
+         - 夹角余弦；
+         - 相关系数；
+      - 簇之间的相似度；
+   - k均值算法的推导；
+   - 与高斯混合模型EM算法的关系；
+   - 实验：<a href="KMeans.ipynb">Download Source Code</a>
